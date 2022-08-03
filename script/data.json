@@ -72,70 +72,70 @@
     {
         "type": "Alemania",
         "description": "Oberbaumbrücke",
-        "price": 1500,
+        "price": 790,
         "available": true,
         "source": "images/berlin.jpg"
     },
     {
         "type": "Alemania",
         "description": "Alexanderplatz",
-        "price": 2500,
+        "price": 500,
         "available": true,
         "source": "images/berlin_alexanderplatz.jpg"
     },
     {
         "type": "Alemania",
         "description": "Charlottenburg",
-        "price": 1020,
+        "price": 520,
         "available": true,
         "source": "images/berlin_charlottenburg.jpg"
     },
     {
         "type": "Alemania",
         "description": "Cupula",
-        "price": 1590,
+        "price": 590,
         "available": true,
         "source": "images/berlin_cupula.jpg"
     },
     {
         "type": "Alemania",
         "description": "Wall",
-        "price": 860,
+        "price": 560,
         "available": false,
         "source": "images/berlin_muro.jpg"
     },
     {
         "type": "Czech",
         "description": "Cesky Krumlov",
-        "price": 910,
+        "price": 210,
         "available": true,
         "source": "images/czech_cesky.jpg"
     },
     {
         "type": "Czech",
         "description": "Karlovy Vary",
-        "price": 1400,
+        "price": 400,
         "available": true,
         "source": "images/czech_karlovy.jpg"
     },
     {
         "type": "Czech",
         "description": "Praga",
-        "price": 2560,
+        "price": 560,
         "available": false,
         "source": "images/czech_praga.jpg"
     },
     {
         "type": "Czech",
         "description": "Castillo Praga",
-        "price": 1100,
+        "price": 1102,
         "available": true,
         "source": "images/czech_pragaaa.jpg"
     },
     {
         "type": "Czech",
         "description": "Rio Moldava",
-        "price": 1900,
+        "price": 900,
         "available": true,
         "source": "images/czech_pragaa.jpg"
     }
